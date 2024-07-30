@@ -1,4 +1,4 @@
-# E-commerce Website Replica
+# E-commerce Website Replication
 
 ## Overview
 
@@ -39,7 +39,7 @@ To get a local copy up and running, follow these steps:
 
 2. Navigate into the project directory:
    
-  ```cd your-repository```
+    ```cd your-repository```
 
 3. Open ```index.html``` in your web browser to view the website locally.
 
@@ -54,5 +54,5 @@ If you wish to contribute to this project, please fork the repository and create
 This project is licensed under the MIT License.
 
 **Acknowledgements**
-Template Source: [Link Text](https://themes.shopify.com/themes/crave/styles/default/preview)
+Template Source: [Original Shopify template](https://themes.shopify.com/themes/crave/styles/default/preview)
 Special Thanks: To the authors of the template.
