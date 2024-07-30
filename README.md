@@ -43,12 +43,14 @@ Open ```index.html``` in your web browser to view the website.
 ## Contributing
 If you wish to contribute to this project, please fork the repository and create a pull request with your changes. Ensure that your code adheres to the project’s coding style and includes relevant tests.
 
-## Screenshots
-[Homepage](Screenshots/Pantry Staple-0.png)
-[Product listings](Screenshots/Pantry Staple-1.png)
 ## License
 This project is licensed under the MIT License.
 
 ## Acknowledgements
 Template Source: [Original Shopify template](https://themes.shopify.com/themes/crave/styles/default/preview)
 Special Thanks: To the authors of the template.
+
+
+## Screenshots
+![Homepage](Screenshots/Pantry Staple-0.png)
+![Product listings](Screenshots/Pantry Staple-1.png)
