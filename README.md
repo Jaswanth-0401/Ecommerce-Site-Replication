@@ -44,15 +44,15 @@ To get a local copy up and running, follow these steps:
 3. Open ```index.html``` in your web browser to view the website locally.
 
 
-**Usage**
+## Usage
 Open ```index.html``` in your web browser to view the website.
 
-**Contributing**
+## Contributing
 If you wish to contribute to this project, please fork the repository and create a pull request with your changes. Ensure that your code adheres to the project’s coding style and includes relevant tests.
 
-**License**
+## License
 This project is licensed under the MIT License.
 
-**Acknowledgements**
+## Acknowledgements
 Template Source: [Original Shopify template](https://themes.shopify.com/themes/crave/styles/default/preview)
 Special Thanks: To the authors of the template.
