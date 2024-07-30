@@ -4,15 +4,8 @@
 
 This project is a site replication of an e-commerce website based on a free Shopify template. The goal of this project was to recreate the website design and functionality to practice and showcase skills in frontend development.
 
-## Project Structure
-.
-├── assets
-  └── ...
-├── index.html
-├── scripts.js
-└── styles.css
-
-
+## Project folders and files
+- **`screenshots/`**: Contains the screenshots of the website.
 - **`assets/`**: Contains all media files such as images and fonts used in the project.
 - **`index.html`**: The main HTML file that serves as the entry point of the website.
 - **`scripts.js`**: Contains JavaScript code for interactive elements and dynamic content.
