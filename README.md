@@ -52,5 +52,5 @@ Special Thanks: To the authors of the template.
 
 
 ## Screenshots
-![Homepage](Screenshots/Pantry Staple-0.png)
+![Homepage](Screenshots/Pantry Staple-0.png) <br>
 ![Product listings](Screenshots/Pantry Staple-1.png)
