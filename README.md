@@ -52,5 +52,5 @@ Special Thanks: To the authors of the template.
 
 
 ## Screenshots
-![Homepage](Screenshots/Pantry Staple-0.png) <br>
-![Product listings](Screenshots/Pantry Staple-1.png)
+![Homepage](https://github.com/Jaswanth-0401/Ecommerce-Site-Replication/blob/main/Screenshots/Pantry%20Staple-0.png) <br>
+![Product listings](https://github.com/Jaswanth-0401/Ecommerce-Site-Replication/blob/main/Screenshots/Pantry%20Staple-1.png)
